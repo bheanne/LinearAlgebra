@@ -50,5 +50,5 @@ def month_profit_trace(profit, reach, make_figs=True):
         print('Invalid number of Reach Values')
 
 reach= np.array([1004, 1250, 1121, 1230])    ## You can change the values to make different scenarios
-profit = np.array([150, 200, -100, -100])  ## You can change the values to make different scenarios
+profit = np.array([500, 400, 150, 100])  ## You can change the values to make different scenarios
 month_profit_trace(profit, reach, make_figs=False) ## Toggle 'make_figs' during debugging or making documentations
