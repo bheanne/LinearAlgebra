@@ -73,8 +73,10 @@ R_mag = np.sqrt(np.sum(Vector1 ** 2 + Vector4 ** 2))  ##Euclidean Distance / Euc
 rise = Vector6[1]
 run = Vector6[0]
 slope = rise / run
-print('The slope is: ', slope)
+print("\nThe slope is: ", slope)
+print("\n⊹˙⋆°••°⋆˙⊹•°⋆˙⊹•°⋆˙⊹•°⋆˙⊹•°⋆˙⊹✭⊹˙⋆°•⊹˙⋆°•⊹˙⋆°•⊹˙⋆°•⊹˙⋆°••°⋆˙⊹")
 
 plt.grid()
 plt.legend()
 plt.show()
+print("\n⊹˙⋆°••°⋆˙⊹•°⋆˙⊹•°⋆˙⊹•°⋆˙⊹•°⋆˙⊹✭⊹˙⋆°•⊹˙⋆°•⊹˙⋆°•⊹˙⋆°•⊹˙⋆°••°⋆˙⊹")
