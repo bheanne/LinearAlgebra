@@ -25,7 +25,7 @@ print("\nMultiplying Vector3 & Vector5 is equal to", Multiplication)
 print("\nDividing Vector3 & Vector4 is equal to", Division)
 print("\nDividing", Multiplication, "to Vector5 is equal to", Combi2)
 
-##C Squarring & Square Root
+##C Square & Square Root
 Square = np.square(Vector2)
 Square_Root = np.sqrt(Vector2)
 Combi3 = np.square(np.sqrt(Vector2))
